@@ -41,7 +41,9 @@ public class Mininet {
 						selectedUser = userVar;
 						selectedUser.display();
 						y= 1;
-					}else {	}
+					}else {	
+						x=0;
+					}
 				}
 				if (y==1){
 					System.out.println("Profile Found!");
