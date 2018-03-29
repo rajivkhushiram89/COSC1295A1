@@ -5,6 +5,13 @@ import java.util.Scanner;
  
 
 
+/*
+ * 
+ * Author name: Rajiv Khushiram
+ * 
+ */
+
+
 public class Mininet {
 	public static ArrayList<Person> allusers;
 	public static ArrayList<Adult> parentUsers;

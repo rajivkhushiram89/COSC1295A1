@@ -1,5 +1,10 @@
 package com.rmit.assignment1;
-
+/*
+ *
+ *Author Name: Geoffrey Tirop
+ *
+ *
+ */
 import java.util.ArrayList;
 
 public abstract class Person {

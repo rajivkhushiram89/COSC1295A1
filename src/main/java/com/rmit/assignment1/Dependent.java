@@ -2,6 +2,17 @@ package com.rmit.assignment1;
 
 import java.util.ArrayList;
 
+
+
+/*
+ * 
+ * 
+ * 
+ * 
+ * Author Name: Geoffrey Tirop 
+ * 
+ */
+
 public class Dependent extends Person {
 
 	private Adult fatherObj;
